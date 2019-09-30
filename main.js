@@ -1,10 +1,10 @@
-let iGetTheJoke;
-let havingFun;
-let learning;
-let killingIt;
+let iGetTheJoke = true
+let havingFun = true
+let learning = true
+let killingIt = true
 
 
-function returnFalse() {
+function returnFalse() { 
 
 }
 

@@ -4,15 +4,23 @@ let learning = true
 let killingIt = true
 
 
-function returnFalse() { 
+function returnFalse(hello) {
+  return false
 
 }
 
-function isOpposite(condition) {
+function isOpposite(condition) { return !condition
 
 }
 
-function both(condition1, condition2) {
+function both(condition1, condition2) { return condition1 true;
+  return condition2 false;
+  return condition1 false;
+  return condition2 true;
+  return condition1 false;
+  return condition2 false;
+  return condition1 true;
+  return condition2 true;
 
 }
 
